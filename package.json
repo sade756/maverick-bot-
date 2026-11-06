@@ -1,0 +1,12 @@
+{
+  "name": "maverick-retire",
+  "version": "2.0.0-retire",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.8",
+    "pino": "^8.16.0",
+    "axios": "^1.6.0",
+    "fs-extra": "^11.1.1"
+  }
+}
